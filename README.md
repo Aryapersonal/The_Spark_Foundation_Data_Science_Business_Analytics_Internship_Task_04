@@ -1,6 +1,9 @@
 # The_Spark_Foundation_Data_Science_Business_Analytics_Internship_Task_04
 
-![(https://github.com/user-attachments/assets/7312a0bb-e3a3-4e37-a83f-4d533a2a4b92)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-
-![geg0f73o](https://github.com/user-attachments/assets/7312a0bb-e3a3-4e37-a83f-4d533a2a4b92)
+### 
+<div align ="right">
+  <img src ="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&srtle=for-the-badge" height="25" alt="youtube logo" />
+</div> 
+  
+  
