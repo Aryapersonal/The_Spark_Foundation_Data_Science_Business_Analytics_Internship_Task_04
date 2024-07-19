@@ -11,6 +11,13 @@
 
   **SampleSuperstore Dataset Analysis with Python**
 
+
+![Dashboard 1](https://github.com/user-attachments/assets/2b29918b-dd34-45f0-ade7-18b9e23004b5)
+
+
+
+  
+
 **Table of Contents**
 
 1. [Overview](#overview)
